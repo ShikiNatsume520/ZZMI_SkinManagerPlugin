@@ -1,0 +1,5 @@
+Mod_Storage/
+dist/
+build/
+logs/
+*.spec
